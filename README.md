@@ -121,8 +121,8 @@ plant-soil-detector/
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Iluxa-sensei/Plant-Soil-Detector/blob/main/MIT%20LICENSE)file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/iluxa-sensei/Plant-Soil-Detector/blob/main/MIT%20LICENSE)file for details.
 
 ## Contact
 
-For questions, feedback, or collaboration, open an issue or contact via GitHub: [github.com/your-username/plant-soil-detector](https://github.com/your-username/plant-soil-detector/issues)
+For questions, feedback, or collaboration, open an issue or contact via GitHub: [github.com/your-username/plant-soil-detector](https://github.com/iluxa-sensei/plant-soil-detector/issues)
