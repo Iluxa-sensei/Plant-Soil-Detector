@@ -1,0 +1,8 @@
+models/
+*.pt
+*.pth
+*.pkl
+__pycache__/
+*.log
+.env
+.venv/

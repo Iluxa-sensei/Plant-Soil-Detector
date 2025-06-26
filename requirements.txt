@@ -1,0 +1,8 @@
+opencv-python~=4.11.0.86
+torch~=2.5.1
+requests~=2.32.3
+numpy~=2.1.1
+ultralytics~=8.3.85
+fastai~=2.7.18
+torchvision~=0.20.1
+pillow~=11.1.0
